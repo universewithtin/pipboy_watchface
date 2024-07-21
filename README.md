@@ -26,6 +26,10 @@ Everything is on the screen. Except...
 
 ![Colours](misc/colours.png)
 
+## Installation
+
+[![Guide](https://img.youtube.com/vi/Oab9GabAuxc/0.jpg)](https://www.youtube.com/watch?v=Oab9GabAuxc)
+
 ## WFS tricks I used
 
 Basically, opacity. Check the opacity modificator for elements. Want something gone or appear at certain time or trigger? As all of it comes by boolean(0-1) or changing some number. 
