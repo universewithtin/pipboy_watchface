@@ -73,9 +73,9 @@ In that case, download WFS and you can compile your own APK file. That would not
 > [!TIP]
 > Someone reached out with own version of this watchface. Honestly, it is better than mine in terms of detalization. 
 
-
+- [GitHub page](https://github.com/lasagaaa/Pipboy-Face)
 - [Link to Reddit](https://www.reddit.com/r/Fallout/comments/1fwgs95/custom_pipboy_face_for_my_galaxy_smart_watch/)
-- [Link to the release comment](https://www.reddit.com/r/Fallout/comments/1fwgs95/comment/lqeinn0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (In case links will change)
+- [Link to the release comment](https://www.reddit.com/r/Fallout/comments/1fwgs95/comment/lqeinn0/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) (In case links will change or something)
 - If no APK provided there by the time you check the link, you can still install WFS and create one yourself or sideload it.
 
 ![info_pic](/misc/other_version.png)
